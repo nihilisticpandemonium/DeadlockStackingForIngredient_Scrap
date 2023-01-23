@@ -3,7 +3,7 @@
     "version": "0.0.4",
     "factorio_version": "1.1",
     "title": "Deadlock Stacking For Ingredient_Scrap",
-    "author": "nihilisticpandemonium",
+    "author": "nihilistzsche",
     "homepage": "",
     "dependencies": [
         "base",
