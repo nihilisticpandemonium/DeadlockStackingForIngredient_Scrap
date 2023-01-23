@@ -1,30 +1,15 @@
 {
-    "name": "DeadlockStackingForMadclown",
-    "version": "0.0.6",
+    "name": "DeadlockStackingForIngredient_Scrap",
+    "version": "0.0.4",
     "factorio_version": "1.1",
-    "title": "Deadlock Stacking For Madclown",
+    "title": "Deadlock Stacking For Ingredient_Scrap",
     "author": "nihilisticpandemonium",
     "homepage": "",
     "dependencies": [
         "base",
         "deadlock-beltboxes-loaders >= 2.3.0",
         "rusty-locale",
-        "(?)Clowns-AngelBob-Nuclear",
-        "(?)Clowns-Extended-Minerals",
-        "(?)Clowns-Nuclear",
-        "(?)Clowns-Processing",
-        "(?)Clowns-Science",
-        "(?)MadClownFuelsNuclear",
-        "(?)angelsrefining",
-        "(?)angelssmelting",
-        "(?)angelsinfiniteores",
-        "(?)angelspetrochem",
-        "(?)angelsbioprocessing",
-        "(?)angelsexploration",
-        "(?)angelsindustries",
-        "(?)ShinyAngelGFX",
-        "(?)DeadlockStackingForBobs",
-        "(?)DeadlockStackingForAngels"
+        "Ingredient_Scrap"
     ],
-    "description": "Add stacked items for Madclown"
+    "description": "Add stacked items for Ingredient_Scrap"
 }
